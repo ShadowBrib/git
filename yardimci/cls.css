@@ -1,0 +1,38 @@
+body {
+    background-color: lightgreen;
+    
+}
+
+.p1 {
+    width: 50%;
+    border: 2px solid red;
+    background-color: #f8d7da;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    padding: 10px;
+    margin-left: auto; margin-right: auto;
+}
+img, .div2 {margin-left: auto; margin-right: auto; display: block;}
+ul, li {text-align: center;} 
+ a
+ {
+    font-family: "Playwrite MX Guides", serif;
+
+ }
+ .playwrite-mx-guides-regular {
+    font-family: "Playwrite MX Guides", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+a:link{
+    color: magenta;
+}  
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: cyan;
+}
+a:active {
+    color:peru;
+  }
