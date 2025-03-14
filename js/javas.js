@@ -4,8 +4,3 @@ function changeColor() {
     const randomIndex = Math.floor(Math.random() * colors.length);
     document.body.style.backgroundColor = colors[randomIndex];
 }
-
-function onclick(){
-    const colors = style-changeColor 
-
-}
